@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  vertical-align: baseline;
+}
+
+#quote-box {
+  border-radius: 3px;
+  position: relative;
+  margin:8% auto auto auto;
+  width: 700px;
+  padding: 40px 50px;
+  display: table;
+  text-align: center;
+  font-size: 1.75em;
+  }
+
+#tweet-quote{
+  font-size:15px;
+}
